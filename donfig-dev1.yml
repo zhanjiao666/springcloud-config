@@ -1,1 +1,3 @@
-donfig-dev1.yml
+
+ config:
+   info: "master branch,springcloud-config/config-dev1.yml version=1"
